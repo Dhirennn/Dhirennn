@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Dhirennn<br>👀 I’m interested in data analytics, data structures/algorithms and a little bit of cybersecurity.<br>🌱 I’m currently learning Computer Science at Monash University. Final year student.<br>💞️ I’m looking to collaborate on any projects that are feasible for a Year 3 CS Student.<br>📫 How to reach me : Twitter - @Dhirennn_ , Email : mandhirensingh@gmail.com
+👋 Hi, I’m @Dhirennn<br>👀 I’m interested in data analytics, data structures/algorithms and a little bit of cybersecurity.<br>🌱 I’m currently learning Computer Science at Monash University. Final year student.<br>💞️ I’m looking to collaborate on any projects that are feasible for a Year 3 CS Student.<br>📫 How to reach me : Twitter - @Dhirennn_ , Email : contact@mandhirensingh.com
 
 
 ## 🌐 Socials:
